@@ -1,6 +1,6 @@
 # shop_manager
 
-For using this sample you need MySQL. 
+For using this sample you need MySQL table and MS SharePoint account.
 
     $sql = "CREATE TABLE users (
             id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
