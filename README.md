@@ -17,4 +17,7 @@ For using this sample you need MySQL table and MS SharePoint account.
 
 Open the browser: http://localhost/record . Localhost set up on IP 10.77.10.136 as a default. 
 
+
+# shop_manager_home_page
+
 ![shop_manager](https://user-images.githubusercontent.com/43278778/49749006-324bc600-fc75-11e8-94f3-ab1afebcf950.jpg)
