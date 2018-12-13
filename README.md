@@ -1,4 +1,10 @@
-# shop_manager
+# shop_manager_description
+
+-	Transfer of orders to Shop from Design team electronically
+-	Creation of QR coding system to eliminate printing of documents for shop and field use.
+-	Implement time tracking portion of database to record historical data for future use.
+
+# shop_manager_run_local
 
 For using this sample you need MySQL table and MS SharePoint account. 
 
