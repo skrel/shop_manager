@@ -1,3 +1,8 @@
+![Download](https://img.shields.io/badge/php-7-green.svg)
+![Download](https://img.shields.io/badge/MySQL-database-red.svg)
+![Download](https://img.shields.io/badge/XAMPP-v3.2.2-blue.svg)
+![Download](https://img.shields.io/badge/MS-SharePoint-yellow.svg)
+
 # shop_manager_description
 
 -	Transfer of orders to Shop from Design team electronically
